@@ -42,3 +42,13 @@ button:hover {
     font-weight: bold;
     color: #333;
 }
+footer p, a {
+    font-size: 0.9em;
+    margin: 0px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.193)
+    ;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
